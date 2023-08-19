@@ -1,4 +1,4 @@
 # New Project
 
 This project is created from local system.
-Created bye Sneha Gupta.
+Created by Sneha Gupta.
